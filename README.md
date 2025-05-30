@@ -62,8 +62,8 @@ jupyter notebook ProjectOrder.ipynb
 
 2. Run all cells to reproduce data cleaning, aggregation, and visualizations.
 
-3. View the interactive dashboard (if deployed):
-  Tableau Public: DashboardLink#############
+3. View the interactive dashboard:
+ - Tableau Public: DashboardLink#############
 
 ## Analysis Highlights
 
