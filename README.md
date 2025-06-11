@@ -63,7 +63,7 @@ jupyter notebook ProjectOrder.ipynb
 2. Run all cells to reproduce data cleaning, aggregation, and visualizations.
 
 3. View the interactive dashboard:
- - Tableau Public: DashboardLink#############
+ - Tableau Public: https://public.tableau.com/views/OnlineOrdersDataAnalysis_17485871995060/Dashboard1?:language=en-GB&publish=yes&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link
 
 ## Analysis Highlights
 
